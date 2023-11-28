@@ -1,0 +1,27 @@
+{
+    "Name": "",
+    "Icon": "",
+    "Swapicon": "",
+    "Type": "Skin:Mesh",
+    "Message": null,
+    "Assets": [
+        {
+            "CompressionType": "oodle",
+            "AssetPath": "",
+            "AssetPathTo": "",
+            "AssetUcas": ""
+        },
+        {
+            "CompressionType": "oodle",
+            "AssetPath": "",
+            "AssetPathTo": "",
+            "AssetUcas": ""
+        },
+        {
+            "CompressionType": "oodle",
+            "AssetPath": "",
+            "AssetPathTo": "",
+            "AssetUcas": ""
+        }
+    ]
+  }
